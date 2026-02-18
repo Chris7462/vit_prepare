@@ -1,0 +1,14 @@
+# Core dependencies
+torch
+torchvision
+
+# Data processing
+numpy
+opencv-python
+albumentations
+
+# Configuration
+pyyaml
+
+# Logging and visualization
+matplotlib
